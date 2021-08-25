@@ -1,5 +1,5 @@
-let raceNumber = Math.floor(Math.random() * 1000;
-let early = false;
+let raceNumber = Math.floor(Math.random() * 1000; // random whole numbers from 0(inclusive) to 1000(exclusive)
+let early = false;// 9:30
 let age = 18;
                             
 if (early && age > 18) {                            
